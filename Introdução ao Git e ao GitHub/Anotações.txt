@@ -1,0 +1,6 @@
+### Baixar repositório e trabalhar com ele na máquina:
+
+- Clica no repositório
+- Clona o link (SSH)
+- Abre o Git Bash na pasta de destino
+- git clone + paste (clica com o lado direito do mouse) + enter
